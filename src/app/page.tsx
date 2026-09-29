@@ -326,23 +326,20 @@ export default function Home() {
 
             <div className="timeline">
               <article className="experience">
-                <p className="date">OCT 2023 — JUL 2024</p>
-                <h3>Software Engineer</h3>
-                <h4>Jay Chemicals Industries Pvt Ltd</h4>
-                <p className="location">Gujarat, India</p>
+                <p className="date">OCT 2026 — Present</p>
+                <h3>Associate Software Engineer</h3>
+                <h4>VSquare IT Inc</h4>
+                <p className="location">Malvern, PA</p>
 
                 <ul>
                   <li>
-                    Built React interfaces and Spring Boot REST APIs for donor
-                    management, beneficiary tracking, and operational records.
+                   Developed and maintained backend application components using Java, Python, and Clojure, implementing software functionality and supporting scalable application workflows.
                   </li>
                   <li>
-                    Integrated email and SMS notifications and improved
-                    reporting using MySQL and Oracle SQL.
+                    Built and supported Apache Flink data-processing pipelines, handling application data streams and improving reliability of data-processing workflows.
                   </li>
                   <li>
-                    Contributed to AWS deployments, Docker workflows, automated
-                    testing, and code reviews.
+                    Containerized application services using Docker, creating consistent development and deployment environments across software components.
                   </li>
                 </ul>
               </article>
